@@ -53,5 +53,5 @@
 
 
 <div align="center">
-    <img src="https://github.com/itsmeakashgoyal/itsmeakashgoyal/blob/main/files/programmer.png" alt="hey" width="800" height="600" />
+    <img src="https://github.com/itsmeakashgoyal/itsmeakashgoyal/blob/main/files/programmer.png" alt="hey" width="550" height="400" />
 </div>
