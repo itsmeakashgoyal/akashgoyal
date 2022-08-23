@@ -1,25 +1,33 @@
-<h1 align="center">Hi 👋, I'm Akash Goyal</h1>
-<p align="center">Welcome to my page! </br> I'm Akash Goyal, a Software Developer from <b>Bangalore, India</b>.</p>
+<h1 align="center">Hi 👋, I'm Akash Goyal, a software engineer from Bangalore, India</h1>
+<h3 align="center">A passionate C++ developer.</h3>
 
-</p>
+
+### Bio
+- 🌍 An experienced C++ developer with 7+ years of hands-on experience in the area of software design and development.
+- 💬 Proficient in **#datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #cplusplus and #blockchaintechnology**.
+- 🌱 I'm mostly active within the **C++ Community**.
+- ⚙️ I use daily: `.c`, `.c++`, `.py`, `.sh`, `docker`, `linux`.
+- 📫 How to reach me at **akashgoyal2309@gmail.com**.
+- 📝 Checkout my [Resume](files/resume.pdf).
+
 
 ### Now
-
-- 👯 I’m contributing to [concord-bft](https://github.com/vmware/concord-bft) consensus algorithm.
-- 🔭 I’m currently working on **VMware Blockchain**.
+- 👯 I’m contributing to [concord-bft](https://github.com/vmware/concord-bft), a consensus algorithm.
+- 🔭 Currently working on **VMware Blockchain (VMBC)**.
 - 🔭 Here, I am contributing to the design and development of the backend system for deploying Distributed Byzantine Fault Tolerant components on VMware Blockchain.
 - :fire: Interested in Backend C/C++ technology.
 - :calendar: Seeking to contribute to open source and closed source projects based on C++.
 
-### Bio
 
-- 🌍 I am 7+ years of experienced Software Engineer with a demonstrated history of working in the IT product based companies.
-- ⚙️ I use daily: `.c`, `.c++`, `.py`, `.sh`, `docker`, `linux`.
-- 🌍 I'm mostly active within the **C++ Community**.
-- 🌱 Learning all about new technologies like **Blockchain**, etc.
-- 💬 Proficient in **#datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #cplusplus and #blockchaintechnology**.
-- 📝 Checkout my [Resume](files/resume.pdf).
-- 📫 How to reach me at **akashgoyal2309@gmail.com**.
+<!-- SOCIAL -->
+<h3 align="left">Find me in the 'verse</h3>
+
+<p>
+    <a href="https://github.com/itsmeakashgoyal" target="_blank">
+        <img alt="github" src="https://img.shields.io/github/followers/itsmeakashgoyal?label=GitHub&amp;style=social" />
+    </a><a href="https://www.linkedin.com/in/akash-goyal-2309/" target="_blank">
+        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,19 +45,9 @@
 
 <h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeakashgoyal&show_icons=true&locale=en&layout=compact" alt="itsmeakashgoyal" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=itsmeakashgoyal&amp;show_icons=true&amp;locale=en" alt="itsmeakashgoyal" align="center" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeakashgoyal&amp;" alt="itsmeakashgoyal" align="center" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeakashgoyal&show_icons=true&locale=en" alt="itsmeakashgoyal" /></p>
-
-
-<!-- SOCIAL -->
-<h3 align="left">Find me in the 'verse</h3>
-
-<p>
-    <a href="https://github.com/itsmeakashgoyal" target="_blank">
-        <img alt="github" src="https://img.shields.io/github/followers/itsmeakashgoyal?label=GitHub&amp;style=social" />
-    </a><a href="https://www.linkedin.com/in/akash-goyal-2309/" target="_blank">
-        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
-</p>
 
 
 <div align="center">
