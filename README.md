@@ -8,7 +8,6 @@
 - 🌱 I'm mostly active within the **C++ Community**.
 - ⚙️ I use daily: `.c`, `.c++`, `.py`, `.sh`, `docker`, `linux`.
 - 📫 How to reach me at **akashgoyal2309@gmail.com**.
-- 📝 Checkout my [Resume](files/resume.pdf).
 
 
 ### Now
