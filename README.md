@@ -7,7 +7,7 @@
 - 💬 Proficient in **#datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #cplusplus and #blockchaintechnology**.
 - 🌱 I'm mostly active within the **C++ Community**.
 - ⚙️ I use daily: `.c`, `.c++`, `.py`, `.sh`, `docker`, `linux`.
-- 📫 How to reach me at **akashgoyal2309@gmail.com**.
+- 📫 How to reach me at **ag.akgoyal@gmail.com**.
 
 
 ### Now
