@@ -3,19 +3,20 @@
 
 
 ### Bio
-- 🌍 An experienced C++ developer with 7+ years of hands-on experience in the area of software design and development.
-- 💬 Proficient in **#datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #cplusplus and #blockchaintechnology**.
-- 🌱 I'm mostly active within the **C++ Community**.
+- 🌍 An experienced C++ developer with 9+ years of hands-on experience in the area of software design and development.
+- 💬 Proficient in **#datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #cplusplus**.
+- 💬 Working knowledge in automotive, IoT, Blockchain and Storage domain.
+- 🌱 I'm mostly active within the **C and C++ Community**.
 - ⚙️ I use daily: `.c`, `.c++`, `.py`, `.sh`, `docker`, `linux`.
-- 📫 How to reach me at **ag.akgoyal@gmail.com**.
+- 📫 How to reach me at **akashgoyal2309@gmail.com**.
 
 
 ### Now
 - 👯 I’m contributing to [concord-bft](https://github.com/vmware/concord-bft), a consensus algorithm.
-- 🔭 Currently working on **VMware Blockchain (VMBC)**.
-- 🔭 Here, I am contributing to the design and development of the backend system for deploying Distributed Byzantine Fault Tolerant components on VMware Blockchain.
+- 🔭 Currently working with **Pure Storage**.
+- 🔭 Here, I am contributing to the design and development of SMB, Objects ops auditing for FlashBlade product.
 - :fire: Interested in Backend C/C++ technology.
-- :calendar: Seeking to contribute to open source and closed source projects based on C++.
+- :calendar: Seeking to contribute to open source and closed source projects based on C/C++.
 
 
 <!-- SOCIAL -->
