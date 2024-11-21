@@ -2,17 +2,17 @@
 <h3 align="center">A passionate C++ developer.</h3>
 
 
-### Bio
+### Profile Summary
 - 🌍 An experienced C++ developer with 9+ years of hands-on experience in the area of software design and development.
 - 💬 Proficient in **#datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #cplusplus**.
 - 💬 Working knowledge in automotive, IoT, Blockchain and Storage domain.
+- 👯 Contributed to [concord-bft](https://github.com/vmware/concord-bft), a consensus algorithm.
 - 🌱 I'm mostly active within the **C and C++ Community**.
 - ⚙️ I use daily: `.c`, `.c++`, `.py`, `.sh`, `docker`, `linux`.
-- 📫 How to reach me at **akashgoyal2309@gmail.com**.
+- 📫 How to reach me at **ag.akgoyal@gmail.com**.
 
 
 ### Now
-- 👯 I’m contributing to [concord-bft](https://github.com/vmware/concord-bft), a consensus algorithm.
 - 🔭 Currently working with **Pure Storage**.
 - 🔭 Here, I am contributing to the design and development of SMB, Objects ops auditing for FlashBlade product.
 - :fire: Interested in Backend C/C++ technology.
@@ -44,12 +44,5 @@
 
 
 <h3 align="left">Github Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeakashgoyal&show_icons=true&locale=en&layout=compact" alt="itsmeakashgoyal" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=itsmeakashgoyal&amp;show_icons=true&amp;locale=en" alt="itsmeakashgoyal" align="center" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeakashgoyal&amp;" alt="itsmeakashgoyal" align="center" /></p>
-
-
-
-<div align="center">
-    <img src="https://github.com/itsmeakashgoyal/itsmeakashgoyal/blob/main/files/programmer.png" alt="hey" width="550" height="400" />
-</div>
+<p><img src="https://github-readme-stats.vercel.app/api?username=itsmeakashgoyal&amp;show_icons=true&amp;locale=en" alt="itsmeakashgoyal" align="left" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeakashgoyal&amp;" alt="itsmeakashgoyal" align="right" /></p>
