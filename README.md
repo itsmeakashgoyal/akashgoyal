@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Goyal, a software engineer from Bangalore, India</h1>
 <h3 align="center">A passionate C++ developer.</h3>
 
+<p align="center"><em>A seasoned software developer with over 9+ years of extensive experience in software design and development. Proficient in managing the entire software development life cycle, from initial planning to implementation and maintenance.
+Skilled in conducting impact analysis, project reviews, and comprehensive documentation. Possess deep expertise in Object-Oriented Programming (OOP) and advanced design techniques.</em></p>
+
+<p align="center">Wanna discuss about?: <b>#c, #cpp, #datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #IoT and #blockchaintechnology</b>.</p>
 
 ### Profile Summary
 - 🌍 An experienced C++ developer with 9+ years of hands-on experience in the area of software design and development.
@@ -18,7 +22,6 @@
 - :fire: Interested in Backend C/C++ technology.
 - :calendar: Seeking to contribute to open source and closed source projects based on C/C++.
 
-
 <!-- SOCIAL -->
 <h3 align="left">Find me in the 'verse</h3>
 
@@ -27,6 +30,8 @@
         <img alt="github" src="https://img.shields.io/github/followers/itsmeakashgoyal?label=GitHub&amp;style=social" />
     </a><a href="https://www.linkedin.com/in/akash-goyal-2309/" target="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
+    </a><a href="https://leetcode.com/u/akkiaks-ash/" target="_blank">
+        <img alt="leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fakkiaks-ash&logo=leetcode&logoColor=yellow" />     
 </p>
 
 
